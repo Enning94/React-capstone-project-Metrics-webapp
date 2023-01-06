@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgba(191, 7, 87, 0.809);
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.first-row {
+  display: flex;
+  justify-content: space-around;
+  background-image: url(./images/bg.jpg);
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.second-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-image: url(./images/bg.jpg);
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.second-row-1 {
+  background-color: rgb(227 23 110 / 79%);
+  padding: 0.5rem;
+}
+
+.second-row-1:nth-child(2),
+.second-row-1:nth-child(3),
+.second-row-1:nth-child(6),
+.second-row-1:nth-child(7),
+.second-row-1:nth-child(10) {
+  background-color: rgba(161, 2, 82, 0.828);
+}
+
+.second-row-2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.crypto-img {
+  width: 4rem;
+  height: 4rem;
+}
+
+.text-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-content-1 {
+  padding-top: 7rem;
+}
+
+.price-change {
+  padding-top: 9rem;
+}
+
+.arrow-icon {
+  font-size: 1.2rem;
+  color: aliceblue;
+}
+
+.icon {
+  font-size: 0.8rem;
+  padding-right: 0.5rem;
+}
+
+.trend-up {
+  color: green;
+  font-size: 2rem;
+}
+
+.trend-down {
+  color: rgb(255, 0, 0);
+  font-size: 2rem;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  font-weight: 700;
+  font-size: larger;
+  background-color: rgba(161, 2, 82, 0.828);
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+
+.nav-title,
+a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.details-img {
+  padding-left: 0;
+  font-size: 1rem;
+}
+
+.crypto-details {
+  flex-direction: column;
+}
+
+.name {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  font-size: 2rem;
+  background-color: rgba(161, 2, 82, 0.828);
+}
+
+.about-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+.author-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.tech-list {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.tech-item {
+  padding: 5px;
+  margin: 5px;
+  background-color: #fff;
+  color: rgba(161, 2, 82, 0.828);
+}
+
+.about-first-col {
+  flex: 50%;
+  text-align: center;
+}
+
+.about-second-col {
+  flex: 50%;
+  text-align: center;
+}
+
+.footer-text {
+  text-align: center;
+  padding: 20px;
+  background-color: #b1a3a3;
+  color: rgba(161, 2, 82, 0.828);
+  font-size: 20px;
+}
+
+.about {
+  text-align: center;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
