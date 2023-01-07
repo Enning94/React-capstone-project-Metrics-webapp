@@ -1,6 +1,5 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 
-// action types
 const FETCH_COINS = 'Redux/reducers/FETCH_COINS';
 const FETCH_COINS_BY_ID = 'Redux/reducers/FETCH_COINS_BY_ID';
 const initialState = { points: [], point: {} };
