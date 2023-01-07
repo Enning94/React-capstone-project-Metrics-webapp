@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [N/A](https://yourdeployedapplicationlink.com)
+- [Live Demo](https://enning94.github.io/React-capstone-project-Metrics-webapp/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +142,8 @@ I would like to thank
 
 - [Microverse](https://www.microverse.org/) for the project
 - [CoinGecko](https://www.coingecko.com/) for the API and documentation
-- [Behance](https://www.behance.net/sakwadesignstudio) for the design
+- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the design
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

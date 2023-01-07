@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage is rendering 1`] = `
+Array [
+  <nav>
+    <section
+      className="nav-wrapper"
+    >
+      <div>
+        <a
+          className=""
+          href="/"
+        >
+          <span
+            className="nav-title"
+          >
+            COIN DATA HUB
+          </span>
+        </a>
+      </div>
+      <div>
+        <ul>
+          <li
+            className=""
+          >
+             
+            <svg
+              fill="none"
+              height="1em"
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"
+              />
+              <path
+                d="M19 10v2a7 7 0 0 1-14 0v-2"
+              />
+              <line
+                x1="12"
+                x2="12"
+                y1="19"
+                y2="23"
+              />
+              <line
+                x1="8"
+                x2="16"
+                y1="23"
+                y2="23"
+              />
+            </svg>
+             
+          </li>
+          <li
+            className=""
+          >
+            <svg
+              fill="none"
+              height="1em"
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="3"
+              />
+              <path
+                d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"
+              />
+            </svg>
+          </li>
+        </ul>
+      </div>
+    </section>
+  </nav>,
+  <h4>
+    Explore, Collect and Sell More (Real Time Data)
+  </h4>,
+  <div
+    className="second-row"
+  />,
+  <div
+    className="about"
+  >
+    <h2>
+      About
+    </h2>
+    <p>
+      This is a cryptocurrency app with a simple interface, and provides up-to-date data on the latest developments in the cryptocurrency market. Users can easily track the value of a cryptocurrency in real-time and make informed decisions about their investments.
+    </p>
+  </div>,
+  <div
+    className="about-row"
+  >
+    <div
+      className="about-first-col"
+    >
+      <div>
+        <h3>
+          Author
+        </h3>
+        <a
+          href="https://github.com/Enning94"
+        >
+          <img
+            alt="Author"
+            className="author-img"
+            src="https://htetaungkyaw71.github.io/JavaScript-Capstone-Project/7f561e6706fb02de2ecd.jpg"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      className="about-second-col"
+    >
+      <h3>
+        Technologies
+      </h3>
+      <ul
+        className="tech-list"
+      >
+        <li
+          className="tech-item"
+        >
+          React
+        </li>
+        <li
+          className="tech-item"
+        >
+          CSS
+        </li>
+        <li
+          className="tech-item"
+        >
+          Redux
+        </li>
+        <li
+          className="tech-item"
+        >
+          Jest
+        </li>
+      </ul>
+    </div>
+  </div>,
+  <footer>
+    <p
+      className="footer-text"
+    >
+      Copyright © 2023 Created in Microverse under MIT license. All rights reserved.
+    </p>
+  </footer>,
+]
+`;

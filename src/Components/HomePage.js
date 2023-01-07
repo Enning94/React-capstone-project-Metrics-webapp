@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import { FaArrowCircleRight } from 'react-icons/fa';
 import CryptoTrend from './cryptoChange';
-import Navbar from './Layouts/header';
+import Navbar from './HomeNavbar';
 
 function Home() {
   const { points } = useSelector((state) => state.crypto);
