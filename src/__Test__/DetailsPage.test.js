@@ -2,8 +2,8 @@ import renderer from 'react-test-renderer';
 import { cleanup } from '@testing-library/react';
 import { Provider } from 'react-redux';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import store from '../redux/configureStore';
-import Details from '../Components/detailsPage';
+import store from '../Redux/configureStore';
+import Details from '../Components/DetailsPage';
 
 afterEach(cleanup);
 test('Check if Details page is rendering correctly', () => {
