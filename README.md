@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://enning94.github.io/React-capstone-project-Metrics-webapp/)
+- [Live Demo](https://splendorous-selkie-db3bd0.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
