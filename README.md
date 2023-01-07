@@ -53,6 +53,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Project Presentation <a name="live-demo"></a>
+
+- [Presentation Demo](https://www.loom.com/share/7215189484074906b4da1ce04a8e3b44)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
